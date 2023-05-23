@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.gridsys/compare/v1.0.0...v1.1.0) (2023-05-23)
+
+
+### Features
+
+* update package in unity registery unity registery ([19cfa3f](https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.gridsys/commit/19cfa3f4a807eb4bc0aa522c640bc9f9a8b5a23a))
+
 ## 1.0.0 (2023-05-23)
 
 
