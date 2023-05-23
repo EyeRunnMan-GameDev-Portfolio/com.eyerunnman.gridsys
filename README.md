@@ -11,14 +11,14 @@ This is a template repo for creating custom Unity Pacakge (upm) with github acti
 - Auto C# documentation using DocFX
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![docs-on-release](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/actions/workflows/docs-on-release.yml/badge.svg)](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/actions/workflows/docs-on-release.yml)
-[![release-please](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/actions/workflows/release-please-npm-publish.yml/badge.svg)](https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/actions/workflows/release-please-npm-publish.yml)
+[![docs-on-release](https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.gridsys/actions/workflows/docs-on-release.yml/badge.svg)](https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.gridsys/actions/workflows/docs-on-release.yml)
+[![release-please](https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.gridsys/actions/workflows/release-please-npm-publish.yml/badge.svg)](https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.gridsys/actions/workflows/release-please-npm-publish.yml)
 
 ## Usage
 
 **After cloning the repo :** 
-- replace com.`org-name`.package-name with your org name in all file/dir names and their contents
-- replace com.org-name.`package-name` with your package name in all files/dir names and their contents 
+- replace com.`EyeRunnMan`.GridSys with your org name in all file/dir names and their contents
+- replace com.EyeRunnMan.`GridSys` with your Grid System  in all files/dir names and their contents 
 
 **To use packages in unity from npm registery :**
 <details>

@@ -15,8 +15,8 @@ This is a template repo for creating custom Unity Pacakge (upm) with github acti
 ## Usage
 
 **After cloning the repo :** 
-- replace com.`org-name`.package-name with your org name in all file/dir names and their contents
-- replace com.org-name.`package-name` with your package name in all files/dir names and their contents 
+- replace com.`EyeRunnMan`.GridSys with your org name in all file/dir names and their contents
+- replace com.EyeRunnMan.`GridSys` with your Grid System  in all files/dir names and their contents 
 
 **To use packages in unity from npm registery :**
 <details>
