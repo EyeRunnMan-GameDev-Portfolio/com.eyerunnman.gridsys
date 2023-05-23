@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2023-05-23)
+
+
+### Features
+
+* initial setup from template ([c6bdfac](https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.gridsys/commit/c6bdfac20c8620f723e453036265395b6cbec77f))
+
 ## [1.7.5](https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.gridsys/compare/v1.7.4...v1.7.5) (2022-12-27)
 
 
